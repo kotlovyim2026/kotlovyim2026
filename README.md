@@ -28,10 +28,6 @@ Key parts:
 ## 🧩 Other Projects
 - **Coming soon....**
 
-➡️ Repos:
-- https://github.com/kotlovyim/jinsa-crm-backend
-- https://github.com/kotlovyim/next-test-task-app
-
 ---
 
 ## 🛠 What I care about
